@@ -1,0 +1,9 @@
+/* Ejercicio 1 - Agrupación de varios elementos bajo una misma regla */
+
+p, h6 {
+  font-family: Arial, Helvetica, sans-serif; /* misma fuente */
+  color: red; /* mismo color */
+  font-size: 18px; /* mismo tamaño de fuente */
+  h6 { font-size:24px;}
+  p {font-size:24px;}
+}

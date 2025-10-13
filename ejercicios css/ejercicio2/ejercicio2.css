@@ -1,0 +1,20 @@
+/* Ejercicio 2 - Herencia de propiedades */
+
+/* Estilos generales del body */
+body {
+  color: red;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+/* Redefinimos las fuentes específicas de los títulos */
+h1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+h2 {
+  font-family: "Courier New", Courier, monospace;
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}

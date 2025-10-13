@@ -1,0 +1,32 @@
+/* Ejercicio 3 - Definición de un estilo en función del contexto */
+
+/* La regla aplica solo al elemento <em> dentro del encabezado correspondiente */
+h1 em {
+  color: #dddddd;
+   
+}
+
+h2 em {
+  color: #cccccc;
+  
+}
+
+h3 em {
+  color: #bbbbbb;
+  
+}
+
+h4 em {
+  color: #aaaaaa;
+   
+}
+
+h5 em {
+  color: #999999;
+   
+}
+
+h6 em {
+  color: #888888;
+   
+}
